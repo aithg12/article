@@ -6,7 +6,6 @@
     "livereload": "^0.9.3",
     "mongoose": "^7.0.3",
     "type" : "module",
-    "vue": "3.3.4"
     
     
 
